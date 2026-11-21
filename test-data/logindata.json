@@ -1,0 +1,22 @@
+[
+    {
+        "username" : "standard_user",
+        "password" : "secret_sauce",
+        "check": "sucess"
+    },
+    {
+        "username" : "standard_user",
+        "password" : "test",
+         "check": "fail"
+    },
+    {
+        "username" : "test",
+        "password" : "secret_sauce",
+         "check": "fail"
+    },
+    {
+        "username" : "test",
+        "password" : "test",
+        "check": "fail"
+    }
+]
